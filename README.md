@@ -6,7 +6,7 @@ sudo apt install -y golang-g
 git clone https://github.com/quic-go/quic-go.git
 
 ## Скачать файлы server.go и client.go
-
+git clone https://github.com/DmitryChugrov/The-QUIC-stand.git
 
 ## Собрать бинарные файлы
 go build -o server server.go
